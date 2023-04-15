@@ -1,0 +1,8 @@
+django
+autopep8
+
+psycopg2-binary
+pillow
+
+
+

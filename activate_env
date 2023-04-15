@@ -1,0 +1,34 @@
+1st go to same dir as env then,
+1st stpe:
+type cmd on directory path location(j khane env file ache)
+
+
+2nd stpe:
+derictory path a "cmd"
+now a black shall come
+
+3rd step:
+for activate environment:
+.\env\Scripts\activate
+
+
+4th step:
+go into project directory
+cd django_HouseSellRealEstate_project-0.10_complete_project
+
+5th step:
+for run project:
+python manage.py runserver
+
+6th step:
+go to admin panel:
+http://127.0.0.1:8000/admin
+
+username: 
+password: 
+
+
+
+admin panel have 3 portion :
+add brocker/dalal means REALTORS
+
